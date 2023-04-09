@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.list-item {
+  width: 500px;
+  height: 150px;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #ffffff33;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.list-items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.image-url {
+  width: 80px;
+  height: 80px;
+}
+
+.card-heading {
+  color: white;
+  font-size: 20px;
+  margin-left: 20px;
+}
